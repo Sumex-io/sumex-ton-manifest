@@ -1,7 +1,7 @@
 {
   "url": "https://app.sumex.io",
   "name": "Sumex.io",
-  "iconUrl": "https://app.sumex.io/favicon.ico",
+  "iconUrl": "./icon.svg",
   "termsOfUseUrl": "https://app.sumex.io/terms",
   "privacyPolicyUrl": "https://app.sumex.io/privacy"
 }
